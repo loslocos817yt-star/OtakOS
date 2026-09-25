@@ -1,1 +1,20 @@
-
+{
+    "apps": [
+        {
+            "id": "calc_01",
+            "nombre": "Calculadora",
+            "descripcion": "Calculadora gamer para otakOS.",
+            "version": "1.0",
+            "archivo": "calculadora.py",
+            "url_raw": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/apps/calculadora.py"
+        },
+        {
+            "id": "notas_01",
+            "nombre": "Bloc de Notas",
+            "descripcion": "Editor de texto simple y oscuro.",
+            "version": "1.2",
+            "archivo": "notas.py",
+            "url_raw": "https://raw.githubusercontent.com/TU_USUARIO/TU_REPO/main/apps/notas.py"
+        }
+    ]
+}
